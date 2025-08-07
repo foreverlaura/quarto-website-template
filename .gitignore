@@ -9,7 +9,6 @@
 # Ignore .Renviron file
 .Renviron
 .Rprofile
-.Rprofile
 
 ##############################################################################
 ## R and RStudio files ##
